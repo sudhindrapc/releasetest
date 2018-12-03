@@ -3,6 +3,7 @@
         "tagName": "v${version}"
     },
     "github": {
-        "release": true
+        "release": true,
+        "tokenRef": "d9823a49b39dc2e9f92d463c193f2947d5c89d4e"
     }
 }
