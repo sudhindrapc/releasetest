@@ -2,7 +2,7 @@
     "increment": "major",
     "src": {
         "commitMessage": "Release ${version}",
-        "tagName": "VERSION${version}"
+        "tagName": "VERSION_${version}"
     },
     "github": {
         "release": true,
