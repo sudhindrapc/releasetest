@@ -45,6 +45,7 @@
         "release-it": "^8.2.0",
         "ts-node": "~4.1.0",
         "tslint": "~5.9.1",
+        "test": "${version}",
         "typescript": "~2.5.3"
     }
 }
